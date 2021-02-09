@@ -1,0 +1,38 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Arabic OCR CNN
+- project: Optical Character Recognition (OCR) for Arabic handwriting
+  role: sole contributer
+  duration: 2018
+  url: "https://github.com/KaysData/Arabic-Handwritten-Character-Classification-CNN"
+  description: Classified Arabic handwritten character images with 93% accuracy. Utilized a convolutional neural network using Tensorflow. Implemented two convolutional layers each with their own pooling layer. Utilized python and Jupyter Notebooks on Amazon Web Services (AWS) EC2.
+
+# Project Nyx
+- project: Project Nyx
+  role: Research Team Member
+  duration: 2020
+  url: "https://youtu.be/60Cn4-9UW-s"
+  description: Total project consisted of 23 people over 48 hours. Helped develop business objectives. Assisted in coordination between management and modeling teams. Assisted in data visualization and website design. Assisted in communicating between reporting and modeling teams.
+  
+# Time Series Bike Forecast
+- project: Time Series Forecast of Bike Share Data
+  role: Member of two person team
+  duration: 2020
+  url: "https://github.com/KaysData/Time_Series_Bike_Share_Forecast"
+  description: Compared performance of ARMA, ARIMA, VAR, NN, and VAR-ARMA Ensemble. Forecasted ridership. Written in R using tswge.
+  
+# Markov Chord Progression Generator
+- project: Markov Chord Progression Generator
+  role: sole contributer
+  duration: 2019
+  url: "https://github.com/KaysData/Markov-Chord-Progression-Generator"
+  description: Implemented Markov chain to create and play new chord progressions. Built the dataset from listings of common progressions. Utilized python and pyaudio for sound generation
+
+# Performance Comparison
+- project: Performance Comparison of SVM, DT, and KNN
+  role: sole contributer
+  duration: 2017
+  url: "https://github.com/KaysData/Performance-Comparison"
+  description: Compared performance of SVM, Decision trees DT, and K-nearest neighbors KNN. Evaluated three datasets from the UC Irvine ML repository (wine production location classification, wine quality classification, and breast cancer classification). Written in python using NumPy and scikit-learn.
+  

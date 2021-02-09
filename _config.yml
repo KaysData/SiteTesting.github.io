@@ -1,0 +1,63 @@
+# Site settings
+title: "Kay's Portfolio"
+description: "Kay's Resume"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Kay Ayala"
+resume_title:                   "Data Scientist"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "kay-ayala@protonmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "1(415)328-9372"
+resume_contact_address:         "Novato, CA"
+
+resume_header_contact_info:     "Novato, CA  • 1(415) 328-9372 • kay-ayala@protonmail.com"
+display_header_contact_info:    "true"
+
+resume_header_intro: "<p>I am a recent graduate from Southern Methodist University’s Data Science Master’s program. I enjoy transforming business objectives into machine learning implementations. Refining the business objective and choosing the right model for the task are always on the forefront of my mind. This is shortly followed by finding the best data visualization or production implementation for model outcomes in a user friendly and clearly actionable way. The world icon above has a printable version of this resume. </p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      false
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     false
+resume_section_links:           true
+resume_section_associations:    false
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/KaysData"
+  resume_twitter_url:           "https://twitter.com/Kay_Ayala_"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/kay-ayala/"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:          "https://github.com/KaysData/KaysData.github.io/raw/master/Resume%2001_03_2021.pdf"
+  #resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
