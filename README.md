@@ -1,8 +1,8 @@
-# Kay's Resume and Portfolio Website
+# Kay's Resume Site
 
-This repository contains the files for my [Portfolio Website](https://kaysdata.github.io/)
+This repository contains the files for my [resume site](https://kaysdata.github.io/SiteTesting.github.io/)
 
-[Printable version of my resume](https://github.com/KaysData/KaysData.github.io/raw/master/Resume%2001_03_2021.pdf)
+[Printable version of my resume](https://github.com/KaysData/SiteTesting.github.io/blob/main/Resume%2001_05_2021.pdf)
 
 #### Credits
 
